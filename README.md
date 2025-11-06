@@ -3,4 +3,4 @@
 - Also good as impressing your maths teacher
 
 # Licence
-- Licences under MIT License - Do what you want!
+- Licenced under MIT License - Do what you want!
